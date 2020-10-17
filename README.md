@@ -1,2 +1,1 @@
-# angryBirdsStage2.5
-Angry Birds stage 2.5 with Class Inheritance and Images
+Rogan Josh of the signature dishes of Kashmir. Robust with varied spices, the dish is cooked with the aroma of fennel seeds, garam masala, bay leaves, turmeric and is indeed a celebration of all senses. A delicious dinner party option, Rogan Josh can be best paired with butter naan or paratha.
